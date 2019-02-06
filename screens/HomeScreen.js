@@ -31,7 +31,7 @@ export default class HomeScreen extends React.Component {
             }}
             style={{
               width: '100%',
-              height: '100%',
+              height: '85%',
               backgroundColor: '#eee',
               alignItems: 'center',
             }}
